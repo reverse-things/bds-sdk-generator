@@ -1,6 +1,6 @@
 > [!WARNING]
 > There is also a better utility for reconstructing structures and unions from the PDB into compilable C headers. <br>
-> I recommend you to "not use" bds-sdk-generator, unless you want to reformat by hand every-symbols you dumped from the PDB. <br>
+> I recommend you to "not use" bds-sdk-generator, unless you want to reformat by hand every-symbols you dumped from the PDB.
 > Go check this [pdbexe](https://github.com/SaruMC/pdbexe) or wait until the next update of our tool.
 
 # About
